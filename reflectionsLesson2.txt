@@ -21,3 +21,10 @@ make sure there is only one file at the staging area that has change in him, and
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches may be useful when we want to make a different or experimental version of my project and not change anything else.
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams helps us by showing the father-son relationships in the workflow tree.
