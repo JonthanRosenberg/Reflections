@@ -33,3 +33,12 @@ The diagrams helps us by showing the father-son relationships in the workflow tr
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 the result is one branch contining the merge of both branches's commits. 
+
+
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+git automatic merging is very easy and comfortable but sometimes can get caught in conflicts. to resolve them we need to manually figure out what was wrong. there is no need for manual merging if the merge is very obvious, so thats why automatic merging is so useful.
