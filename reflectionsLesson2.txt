@@ -9,3 +9,15 @@ When I initialize a repository, a collection of meta data about the files locate
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 the staging area is a middle area between files who were updated in some way and needed to be commited, and the files already commited. you add the appropriate files to this stage and when you are ready you make a commit to transfer them to the repository as part of a new version of the project. (the files are originally part of the working dir, so you can say that the staging area is right between the working dir and the repository).
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+make sure there is only one file at the staging area that has change in him, and commit only him.
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches may be useful when we want to make a different or experimental version of my project and not change anything else.
