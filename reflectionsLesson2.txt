@@ -1,0 +1,11 @@
+Lesson2
+
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository, a collection of meta data about the files located in the dir is being created which gonna help me control the versions of the project.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is a middle area between files who were updated in some way and needed to be commited, and the files already commited. you add the appropriate files to this stage and when you are ready you make a commit to transfer them to the repository as part of a new version of the project. (the files are originally part of the working dir, so you can say that the staging area is right between the working dir and the repository).
