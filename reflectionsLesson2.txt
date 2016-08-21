@@ -28,3 +28,8 @@ Branches may be useful when we want to make a different or experimental version 
 How do the diagrams help you visualize the branch structure?
 
 The diagrams helps us by showing the father-son relationships in the workflow tree.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the result is one branch contining the merge of both branches's commits. 
