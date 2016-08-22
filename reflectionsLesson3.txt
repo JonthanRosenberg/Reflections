@@ -30,3 +30,9 @@ the benefit of having a copy of the last known state of the remote stored locall
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use emails and some kind of cloud service to upload the files of the collaboration. looks like it would be harder in any way.
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would do that when I am changing a feature or anything else in a repository that doesnt belong to me. and other stuff aswell that I dont want to write....
