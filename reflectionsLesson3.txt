@@ -23,3 +23,10 @@ branches are part of the project that lets you try new things without messing up
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 the benefit of having a copy of the last known state of the remote stored locally is that we can branch it out and know where everybody is at at the same time. if we have a mistake we can go back there and see what is it.
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use emails and some kind of cloud service to upload the files of the collaboration. looks like it would be harder in any way.
